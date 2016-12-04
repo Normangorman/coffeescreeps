@@ -1,0 +1,6 @@
+secrets.js
+temp
+node_modules
+bin
+.idea
+*.swp
